@@ -103,8 +103,15 @@ Boxplot explores price variations by fuel type.
 ---
 
 ## ✅ Results
+![RESULT_1](https://github.com/user-attachments/assets/792046d2-2d31-4d73-a512-919f80a78214)
 
-### Highlights:
+![RESULT_2](https://github.com/user-attachments/assets/9ccb1802-8bc3-4d78-aff2-adbd80ad56d2)
+
+![RESULT_3](https://github.com/user-attachments/assets/da737eaf-1e2f-4030-975a-0ffbe5651d78)
+
+---
+
+## Highlights:
 - Achieved a robust **89.91% prediction accuracy (R² score)**.
 - The model performs well across diverse car categories and years.
 
